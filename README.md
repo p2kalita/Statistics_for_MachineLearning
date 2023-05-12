@@ -33,65 +33,9 @@ Here are some statistics concepts that are important in machine learning:
 
 These are some of the basic statistics concepts that are important in machine learning. Understanding these concepts is crucial for selecting appropriate algorithms and building accurate models.
 
-## Getting Started
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-
-* npm
-
-```sh
-npm install npm@latest -g
-```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-
-2. Clone the repo
-
-```sh
-git clone https://github.com/your_username_/Project-Name.git
-```
-
-3. Install NPM packages
-
-```sh
-npm install
-```
-
-4. Enter your API in `config.js`
-
-```JS
-const API_KEY = 'ENTER YOUR API';
-```
-
-## Usage
-
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-## Contributing
-
-
-
-### Creating A Pull Request
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## Authors
 
-* **Partha Pratim Kalita** - *Data Scientist* - [Partha Pratim Kalita](https://github.com/p2kalita) - **
+* **Partha Pratim Kalita** - *Data Scientist* - [Partha Pratim Kalita](https://github.com/p2kalita) 
 
-## Acknowledgements
-
-* []()
-* []()
-* []()
